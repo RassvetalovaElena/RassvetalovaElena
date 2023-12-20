@@ -3,7 +3,7 @@
 - 🌱 I’m a specialist who collects, processes, analyzes and interprets data.
 - ⚡ I moved to Limassol, Cyprus and actively looking for an opportunity to apply my skills and knowledge in a new project or team!
 
-### [Connect with me in a telegram](https://t.me/rassvev "Connect with me")
+### [Connect with me in a Telegram](https://t.me/rassvev "Connect with me")
 
 ### Tools:
 👀 SQL, Python, Tableau, JUPITER, Statistical analysis, Development of technical specifications, Preparation of presentations
